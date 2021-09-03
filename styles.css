@@ -11,7 +11,8 @@ body {
   background-image: url("/pictures/elpaso.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: top;
+  background-position: 25% 20%;
+  background-size: cover;
   color: white;
 }
 
