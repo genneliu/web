@@ -1,0 +1,14 @@
+2 paragraphs
+How does the internet work? What happens when you click on a link? 
+
+
+The internet is the technical infrastructure for the world wide web; although the two are used interchangeably, 
+they refer to different entities. The internet can be thought of as a large network of computers that communicate with 
+one another; it can also be thought of a network of networks. On the other hand, the world wide web is a system within
+the internet that allows users to access web pages through a web browser such as Google Chrome. The internet is connected by 
+thousands of cables laid out around the world and under the oceans. 
+
+When you click on a link on your browser, the URL for the next page is accessed by your web browser through these
+cables. It then takes the URL to get a Domain Name and IP address. The browser makes a request to get the page's
+content, HTTP and HTML. Once the packet of content is sent back, your browser puts the packet back together and 
+loads a completed page. 

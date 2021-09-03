@@ -1,0 +1,178 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+.elpaso {
+  background-image: url("/pictures/elpaso.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  color: white;
+}
+
+.profile-class {
+  background-color: rgb(231, 238, 231);
+}
+
+.elpaso h1 {
+  color: white;
+}
+
+.elpaso h2 {
+  color: #f1f0a7;
+}
+
+.elpaso h3 {
+  color: orange;
+}
+
+nav {
+  border-bottom: 2px solid orange;
+}
+
+h1 {
+  font-family: sans-serif, helvetica, arial;
+  color: teal;
+}
+
+h2 {
+  font-style: italic;
+  font-weight: bold;
+  color: #475b66;
+  font-size: large;
+}
+
+h3 {
+  color: teal;
+}
+
+ol {
+  padding-left: 0;
+}
+
+.crumb {
+  margin-right: 2em;
+  display: inline;
+}
+
+a {
+  color: #df6d0f;
+}
+
+a:hover {
+  color: steelblue;
+}
+
+img {
+  max-width: 300px;
+}
+
+.contact-form {
+  border: 2px solid grey;
+  background-color: lightblue;
+  text-align: center;
+}
+
+label {
+  font-size: small;
+}
+
+#checklist {
+  display: inline-block;
+}
+
+input {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#submit-button {
+}
+
+#my-photo {
+  border-radius: 50%;
+  height: 200px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fav-button-family {
+  align-content: center;
+}
+
+.fav-button {
+  display: inline-block;
+  align-content: center;
+  height: 40px;
+  margin-left: 30px;
+  font-size: 14px;
+  background-color: #f1f0a7;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #bdbc56;
+}
+
+.fav-button:hover {
+  background-color: #dad87b;
+}
+
+.fav-button:active {
+  box-shadow: 0 5px #8e8723;
+  transform: translateY(4px);
+}
+
+#color:active {
+  background-color: #20487e;
+  color: white;
+  box-shadow: 0 5px #2c8fc8;
+}
+
+.back-button {
+}
+
+.kyrgyzstan-photo {
+  text-align: center;
+}
+
+figcaption {
+  color: #475b66;
+  font-size: small;
+  padding-bottom: 2em;
+}
+
+.restaurant {
+  display: inline-block;
+  align-content: center;
+  height: 40px;
+  margin-left: 30px;
+  font-size: 14px;
+  background-color: #f1f0a7;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #bdbc56;
+}
+
+.restaurant:hover {
+  background-color: #dad87b;
+}
+
+.restaurant:active {
+  box-shadow: 0 5px #8e8723;
+  transform: translateY(4px);
+}
